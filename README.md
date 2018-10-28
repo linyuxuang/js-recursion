@@ -2,7 +2,7 @@
 js 递归
 
   js 递归如下例子 一看就明白
-  
+   注意  两点 1：找规律    2：找让递归停止的条件
   
       function recursion(n){
         	if(n==1){
