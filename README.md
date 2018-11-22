@@ -8,7 +8,7 @@ js 递归
         	if(n==1){
         		return 1
         	}
-        		return n*recursion(n-1)   // 7*6*5*4*3*2*1=5040
+        		return n*recursion(n-1)   // 1*2*3*4*5*6*7=5040
 
         }
 	  	console.log(dg(7))   //5040
