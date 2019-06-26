@@ -11,7 +11,7 @@ js 递归
         		return n*recursion(n-1)   // 1*2*3*4*5*6*7=5040
 
         }
-	  	console.log(dg(7))   //5040
+	  	console.log(recursion(7))   //5040
 
 
         function recursion(n){
@@ -21,7 +21,7 @@ js 递归
         		return n+recursion(n-1)   // 7+6+5+4+3+2+1=28
 
         }
-	  	 console.log(dg(7))   //28
+	  	 console.log(recursion(7))   //28
 
 
 
